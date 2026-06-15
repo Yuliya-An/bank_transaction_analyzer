@@ -1,8 +1,0 @@
-text
-.venv/
-__pycache__/
-*.pyc
-.pytest_cache/
-.coverage
-htmlcov/
-.idea/
